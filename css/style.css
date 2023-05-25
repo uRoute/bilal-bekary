@@ -1,0 +1,437 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Alegreya', serif;
+}
+.top{
+    background-image: url(../image/hed-img.jpg);
+    width: 100%;
+    height: 800px;
+    background-position: center center;
+    background-size: cover;
+    
+
+}
+.clr{clear: both;
+}
+.minu{
+    padding-left: 10%;
+    padding-right: 10%; 
+    font-size: 18px; 
+    overflow: hidden;
+}
+
+.logo{
+
+    float: left;
+    
+}
+.logo-img{
+    height: 48px;
+    padding-top: 20px;
+}
+.minu-btn{
+    float: right;
+}
+.btn{
+    text-align: center;
+    display: inline-block;
+    width: 80px;
+    height: 90px;
+    color: white;
+    line-height: 90px;
+    vertical-align: middle;
+    text-decoration: none;
+
+}
+
+.hed-text-div{
+
+   text-align: center;
+   color: white;
+   margin-top:170px;
+
+
+}
+.welcome-hed{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 22px;
+    line-height: 22px;
+   
+
+}
+.title-hed{
+
+    font-size: 5vw;
+    line-height: 50px;
+    font-weight: 400;
+
+}
+.text-hed{
+
+    font-size:24px ;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.btn1-hed{
+    font-family: 'Alegreya Sans', sans-serif;
+    width: 131px;
+    height: 55px;
+    background-color: #8e7754;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+
+}
+.btn2-hed{
+    font-family: 'Alegreya Sans', sans-serif;
+    width: 131px;
+    height: 55px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    margin-left: 10px;
+   
+
+}
+.div-btn{
+
+    margin-top: 40px;
+
+}
+
+.contain{
+    margin-top: 100px;
+    width: 100%;
+    overflow: hidden;
+
+}
+.container1{
+    width: 80%;
+    margin: auto;
+}
+.who-div{
+    width: 100%;
+    
+
+}
+.who-img-div{
+
+    width: 50%;
+    float: left;
+
+}
+.who-img{
+
+ width: 90%;
+
+}
+.who-text-div{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    padding-top: 20px;
+    
+
+}
+.who-title{
+
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}
+.who-text{
+
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+    line-height: 28px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.icon-list{
+    color: #8e7754;
+    display: inline-block;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.icon-list-text{
+
+    padding-left: 20px;
+    
+}
+
+
+ul{
+    list-style:none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+li{
+    display: list-item;
+    line-height: 44px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+i{
+    width: 28px;
+    height: 28px;
+    border-radius: 100%;
+    line-height: 44px;
+    
+    border: 1px solid rgba(0,0,0,.15);
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+.ourlocation{
+
+width: 100%;
+   
+    background-color: #f8f8f8;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 100px;
+}
+.container2{
+
+    width: 80%;
+    margin: auto;
+
+}
+.loca-text{
+
+    float: left;
+    width: 45%;
+    padding-right: 5%;
+    
+}
+.loca-img{
+
+    float: right;
+    width: 50%;
+    
+}
+.ourbak{
+    width: 100%;
+    margin-top: 50px;
+
+}
+.bak-pro{
+
+    width: 80%;
+    margin: auto;
+
+}
+.bak-title{
+
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.bak-text{
+
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+    line-height: 28px;
+    text-align: center;
+    margin-bottom: 70px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+}
+
+.pro{
+    display: inline-block;
+    width: 33.1%;
+    text-align: center;
+}
+.img-pro{
+width: 90%;
+}
+.title-pro{
+    color: #303030;
+    font-weight: 400;
+    font-size: 22px;
+    margin-top: 35px;
+    
+}
+
+.text-pro{
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 400;
+    color: #686868;
+    line-height: 1.86em;
+    width: 90%;
+    margin-top: 0px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.contact{
+    width: 100%;
+    background-color: #f8f8f8;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 100px;
+}
+.container4{
+
+    width: 80%;
+    margin: auto;
+
+}
+.info{
+
+    float: left;
+    width: 45%;
+    padding-right: 5%;
+
+}
+.maps{
+    
+    float: right;
+    width: 50%;
+
+}
+.cont{
+    color: #fff;
+    background-color: #8e7754;
+    width: 28px;
+    height:28px;
+    border-radius: 100%;
+    line-height: 36px;
+    font-size: 18px;
+ padding-left: 8px;
+ padding-top: 8px;
+}
+.con{
+font-size: 17px;    
+}
+.footer{
+width: 100%;
+background-color: #403d38;
+padding-top: 3%;
+padding-bottom: 5%;
+
+}
+.container5{
+    width: 80%;
+    margin: auto;
+}
+.fot-d{
+    float: left;
+    width: 23%;
+}
+.fot-d2{
+    float: left;
+    width: 23%;
+    margin-left: 30px;
+}
+.fot-title{
+    color: white;
+    font-weight: 400;
+}
+.fot-text{
+    color: #969696;
+    font-size: 16px;
+    opacity: 1;
+    visibility: visible;
+    line-height: 30px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.fot-ul{
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #969696;
+    font-size: 16px;
+}
+.fot-li{
+
+    font-size: 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    line-height: 40px;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+ul {
+    position: relative;
+    list-style: none;
+   
+  }
+  
+.fot-li::before {
+    content: '>';
+    position: absolute;
+    left: 0;
+  }
+  .ul-fot{
+color: #969696;
+background-image: url(../image/contact-details-map.png);
+background-repeat: no-repeat;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+background-position-y: 60px;
+
+  }
+  .fot-sp{
+    font-size: 16px;
+    padding-left: 0px;
+  }
+  .fot-i{
+    border: none;
+  }
+  .fot-lico{
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  line-height: 40px;
+  vertical-align: middle;
+  margin-bottom: 0px;
+  padding-left: 0px;
+}
+.undr-foot{
+
+    background-color: #353330;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   text-align: center;
+}
+
+.puf{
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align: center;
+    color: #777;
+    font-size: 15px;
+    opacity: 1;
+    margin-top: 30px;
+}
+.social-icons {
+    text-align: center;
+    margin-top: 15px;
+    margin-top: 30px;
+    
+}
+.vntd-social-icons a {
+    background-color: #484540;
+    color: #8c8a86;
+    border-radius: 100%;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    position: relative;
+}
